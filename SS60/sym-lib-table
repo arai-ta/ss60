@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name microchip_pic12mcu)(type Legacy)(uri "/Library/Application Support/kicad/library/MCU_Microchip_PIC12.lib")(options "")(descr ""))
+)
